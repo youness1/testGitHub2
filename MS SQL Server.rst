@@ -56,7 +56,7 @@ Database size metric window provides the following information:
 
 	- Database version
 
-Database size metric window provides the following information:
+Database version metric window provides you with the information on the current running version of the Microsoft SQL Server.
 
 .. image::.\MSSQLServer-Images\003.jpg
 
