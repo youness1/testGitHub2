@@ -42,7 +42,7 @@ We collect perfmon counters and run sql queries to get the following metric:
 *	Server status 
 
 
-a) Buffer manager information
+1) Buffer manager information
 
 We provide the following metric with the buffer manager information:
 
