@@ -42,14 +42,14 @@ We collect perfmon counters and run sql queries to get the following metric:
 *	Server status 
 
 
-1) Buffer manager information
+#. Buffer manager information
 
 We provide the following metric with the buffer manager information:
 
 .. image:: 001.jpg
 	:scale: 70 %
 
-	- Database size
+#. Database size
 
 Database size metric window provides the following information:
 
