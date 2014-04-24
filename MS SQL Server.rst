@@ -46,7 +46,7 @@ We collect perfmon counters and run sql queries to get the following metric:
 
 We provide the following metric with the buffer manager information:
 
-.. image:: MSSQLServer-Images/001.jpg
+.. image:: 001.jpg
 	:scale: 70 %
 
 	- Database size
