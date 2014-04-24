@@ -42,20 +42,20 @@ We collect perfmon counters and run sql queries to get the following metric:
 *	Server status 
 
 
-#. Buffer manager information
+1. Buffer manager information
 
 We provide the following metric with the buffer manager information:
 
 .. image:: 001.jpg
-	:scale: 70 %
 
-#. Database size
+
+2. Database size
 
 Database size metric window provides the following information:
 
 .. figure:: MSSQLServer-Images\002.jpg
 
-	- Database version
+3. Database version
 
 Database version metric window provides you with the information on the current running version of the Microsoft SQL Server.
 
