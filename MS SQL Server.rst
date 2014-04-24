@@ -47,6 +47,7 @@ We collect perfmon counters and run sql queries to get the following metric:
 We provide the following metric with the buffer manager information:
 
 .. image:: MSSQLServer-Images/001.jpg
+	:scale: 70 %
 
 	- Database size
 
@@ -59,6 +60,8 @@ Database size metric window provides the following information:
 Database version metric window provides you with the information on the current running version of the Microsoft SQL Server.
 
 .. image::.\MSSQLServer-Images\003.jpg
+	:height: 200 px
+   	:width : 200 px
 
 	- Database error information
 
