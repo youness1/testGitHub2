@@ -97,28 +97,24 @@ Job status information is collected by running a sql query. The following is a m
 
 The following is the metric view that provides the results of the queries ran to collect the info on the last ran backups:
 
-.. image::/MSSQLServer-Images/009.jpg
+.. image::.\MSSQLServer-Images\009.jpg
 
 	- Latches
 
 The following is the metric view that provides the information on the latched (acquired by running sql query):
 
-.. image::\MSSQLServer-Images\010.jpg
+.. image::.\MSSQLServer-Images\010.jpg
 
 	- Locks
 
 Locks metric is provided by running a sql query. The following is the metric window with all the locks details:
 
-.. image::MSSQLServer-Images\011.jpg
+.. image::.\MSSQLServer-Images\011.jpg
 
 	- Long running queries
 
 Long running queries metric is the following:
 
-
-.. code-block:: html
-<img src="..\MSSQLServer-Images\012.jpg">
-<img src="../MSSQLServer-Images/012.jpg">
 .. image::.\MSSQLServer-Images\012.jpg
 
 	- Memory manager
