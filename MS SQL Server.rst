@@ -52,7 +52,7 @@ We provide the following metric with the buffer manager information:
 
 Database size metric window provides the following information:
 
-.. image:: MSSQLServer-Images\002.jpg
+.. figure:: MSSQLServer-Images\002.jpg
 
 	- Database version
 
